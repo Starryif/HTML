@@ -32,7 +32,7 @@ HTML 标签不区分大小写。输入标签时既可以使用大写字母也可
 
 不是所有元素都拥有开始标签，内容和结束标签。 一些元素只有一个标签，通常用来在此元素所在位置插入/嵌入一些东西。
 
-&lt;img src="[https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"](https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"&gt)&gt;
+> &lt;img src="\[[https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"\]\(https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png&gt;](https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"]%28https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"&gt%29&gt)
 
 ## 属性 {#属性}
 
@@ -64,13 +64,13 @@ HTML 标签不区分大小写。输入标签时既可以使用大写字母也可
 
 双引号或者单引号，只是风格的问题。
 
-&lt;a href="[http://www.example.com"&gt;双引号&lt;/a](http://www.example.com">双引号</a&gt)&gt;
-
-&lt;a href='[http://www.example.com'&gt;单引号&lt;/a](http://www.example.com'>单引号</a&gt)&gt;
+> &lt;a href="\[[http://www.example.com"&gt;双引号&lt;/a&gt;](http://www.example.com">双引号</a]%28http://www.example.com">双引号)
+>
+> &lt;a href='\[[http://www.example.com'&gt;单引号&lt;/a](http://www.example.com'>单引号</a]%28http://www.example.com'>单引号)&gt;
 
 应该注意单引号和双引号不能在一个属性值里面混用。
 
-&lt;a href="[http://www.example.com'&gt;错误的语法&lt;/a](http://www.example.com'>错误的语法</a&gt)&gt;
+> &lt;a href="\[[http://www.example.com'&gt;错误的语法&lt;/a&gt;](http://www.example.com'>错误的语法</a]%28http://www.example.com'>错误的语法)
 
 在一个HTML中已使用一种引号，可以在此引号中嵌套另外一种引号：
 
