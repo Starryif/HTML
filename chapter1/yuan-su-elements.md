@@ -32,7 +32,7 @@ HTML 标签不区分大小写。输入标签时既可以使用大写字母也可
 
 不是所有元素都拥有开始标签，内容和结束标签。 一些元素只有一个标签，通常用来在此元素所在位置插入/嵌入一些东西。
 
-> &lt;img src="[https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"](https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"]%28https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png>]%28https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"]%28https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"&gt%29&gt)&gt;
+> &lt;img src="[https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"](https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"]%28https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"]%28https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png>]%28https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"]%28https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"&gt%29&gt%29&gt)&gt;
 
 ## 属性 {#属性}
 
