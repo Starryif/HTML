@@ -2,9 +2,9 @@
 
 HTML由一系列的元素（elements）组成，这些元素可以用来包围不同部分的内容，使其以某种方式呈现或者工作。
 
-> &lt;p&gt;这是一个段落&lt;/p&gt;
->
-> 开始标签 内容 结束标签
+`<p>这是一个段落</p>`
+
+`开始标签 内容 结束标签`
 
 **开始标签**（Opening tag）：包含元素的名称（本例为 p），被大于号、小于号所包围。表示元素从这里开始或者开始起作用 。
 
@@ -20,7 +20,7 @@ HTML 标签不区分大小写。输入标签时既可以使用大写字母也可
 
 可以把元素放到其它元素之中，这被称作嵌套。
 
-> &lt;p&gt;这是一个&lt;strong&gt;段落&lt;/strong&gt;&lt;/p&gt;
+`<p>这是一个<strong>段落</strong></p>`
 
 # 块级元素和内联元素
 
@@ -32,13 +32,13 @@ HTML 标签不区分大小写。输入标签时既可以使用大写字母也可
 
 不是所有元素都拥有开始标签，内容和结束标签。 一些元素只有一个标签，通常用来在此元素所在位置插入/嵌入一些东西。
 
-> &lt;img src="[https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"](https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"]%28https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"]%28https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png>]%28https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"]%28https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"&gt%29&gt%29&gt)&gt;
+`<img src="`[`https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"`](https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"]%28https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"]%28https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"]%28https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png>]%28https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"]%28https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"&gt%29&gt%29&gt%29&gt)`>`
 
 ## 属性 {#属性}
 
 元素也可以拥有属性，属性包含元素的额外信息，这些信息不会出现在实际的内容中。
 
-> &lt;p class="editor-note"&gt;这是一个段落&lt;/p&gt;
+`<p class="editor-note">这是一个段落</p>`
 
 这个class属性给元素赋了一个识别的名字（id），这个名字此后可以被用来识别此元素的样式信息和其他信息。
 
@@ -52,9 +52,9 @@ HTML 标签不区分大小写。输入标签时既可以使用大写字母也可
 
 没有属性值的属性被称为布尔属性，它们只能有跟它的属性名一样的属性值。例如disabled 属性，它们可以标记表单输入使之变为不可用\(变灰色\)，此时用户不能向他们输入任何数据。
 
-> &lt;input type="text" disabled="disabled"&gt;
->
-> &lt;input type="text" disabled&gt;
+`<input type="text" disabled="disabled">`
+
+`<input type="text" disabled>`
 
 # 省略包围属性值的引号
 
@@ -64,17 +64,17 @@ HTML 标签不区分大小写。输入标签时既可以使用大写字母也可
 
 双引号或者单引号，只是风格的问题。
 
-> &lt;a href="[http://www.example.com"&gt;双引号&lt;/a&gt;](http://www.example.com">双引号</a>]%28http://www.example.com">双引号)
->
-> &lt;a href='[http://www.example.com'&gt;单引号&lt;/a](http://www.example.com'>单引号</a]%28http://www.example.com'>单引号)&gt;
+`<a href="`[`http://www.example.com">双引号</a>`](http://www.example.com">双引号</a>]%28http://www.example.com">双引号)
+
+`<a href='`[`http://www.example.com'>单引号</a`](http://www.example.com'>单引号</a]%28http://www.example.com'>单引号)`>`
 
 应该注意单引号和双引号不能在一个属性值里面混用。
 
-> &lt;a href="[http://www.example.com'&gt;错误的语法&lt;/a&gt;](http://www.example.com'>错误的语法</a>]%28http://www.example.com'>错误的语法)
+`<a href="`[`http://www.example.com'>错误的语法</a>`](http://www.example.com'>错误的语法</a>]%28http://www.example.com'>错误的语法)
 
 在一个HTML中已使用一种引号，可以在此引号中嵌套另外一种引号：
 
-> &lt;a href="[http://www.example.com](http://www.example.com)" title="这样'行不行'？"&gt;双引号嵌套单引号&lt;/a&gt;
+`<a href="`[`http://www.example.com`](http://www.example.com)`" title="这样'行不行'？">双引号嵌套单引号</a>`
 
 如果想将引号当作文本显示在html中，就必须使用实体引用。
 
