@@ -1,7 +1,7 @@
 # Summary
 
 * [前言](README.md)
-* [HTML简介]
+* HTML简介
   * [分析HTML文档](chapter1/fen-xi-html-wen-dang.md)
   * [元素elements](chapter1/yuan-su-elements.md)
   * [空白&注释&实体引用](chapter1/htmlde-kong-bai.md)
