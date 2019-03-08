@@ -24,7 +24,7 @@
 
 head 标签是 &lt;head&gt; 元素的内容。不像 &lt;body&gt; 元素的内容可以显示在浏览器中，head 的内容不会在浏览器中显示，它的作用是包含一些页面的元数据。
 
-# `<title>`元素 增加一个标题
+## `<title>`元素 增加一个标题
 
 `<title>`元素是用来表示整个HTML文档大致内容的元数据（不是文档的内容）。
 
@@ -34,7 +34,7 @@ head 标签是 &lt;head&gt; 元素的内容。不像 &lt;body&gt; 元素的内�
 
 `<title>`元素的内容也被用在搜索的结果中。
 
-# &lt;meta&gt;元素
+## &lt;meta&gt;元素
 
 HTML中有一个“官方的”方式来为一个文档添加元数据—— [`<meta>`](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/meta)元素。
 
@@ -82,7 +82,7 @@ Twitter 还拥有自己的类型的**专有元数据协议**，当网站的 URL 
 
 `<meta name="twitter:title" content="Mozilla Developer Network">`
 
-# 在你的站点增加自定义图标
+## 在你的站点增加自定义图标
 
 16 x 16 像素是这种图标的第一种类型。图标出现在浏览器每一个打开的页面中的标签页中中以及在书签面板中的书签页面中。
 
@@ -94,7 +94,7 @@ Twitter 还拥有自己的类型的**专有元数据协议**，当网站的 URL 
 
 `<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">`
 
-# 在HTML中应用CSS和JavaScript
+## 在HTML中应用CSS和JavaScript
 
 `<link>`元素经常位于文档的头部。这个link元素有2个属性，rel="stylesheet"表明这是文档的样式表，而 href包含了样式表文件的路径：
 
@@ -106,7 +106,7 @@ Twitter 还拥有自己的类型的**专有元数据协议**，当网站的 URL 
 
 `script>`元素看起来像一个空元素，但它并不是，因此需要一个结束标记。还可以选择将脚本放入`<script>`元素中，而不是指向外部脚本文件。
 
-# 为文档设定主语言
+## 为文档设定主语言
 
 通过添加lang属性到HTML开始标签中来实现
 
@@ -117,6 +117,4 @@ Twitter 还拥有自己的类型的**专有元数据协议**，当网站的 URL 
 还可以将文档的分段设置为不同的语言
 
 `<p>Japanese example: <span lang="jp">ご飯が熱い。</span>.</p>`
-
-
 
