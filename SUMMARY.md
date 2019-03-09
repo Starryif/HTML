@@ -7,6 +7,7 @@
   * [1.3 空白&注释&实体引用](chapter1/htmlde-kong-bai.md)
   * [1.4 元数据](chapter1/yuan-shu-ju.md)
   * [1.5 文字处理基础](chapter1/15-wen-zi-chu-li-ji-chu.md)
+  * [1.6 超链接](chapter1/16-chao-lian-jie.md)
 * [多媒体与嵌入](duo-mei-ti-yu-qian-ru.md)
 * HTML表格
 * HTML表单
