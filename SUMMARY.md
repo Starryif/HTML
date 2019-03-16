@@ -12,7 +12,7 @@
   * [1.8 文档与网站架构](chapter1/18-wen-dang-yu-wang-zhan-jia-gou.md)
   * [1.9 HTML 调试](chapter1/19-html-diao-shi.md)
 * [2 多媒体与嵌入](duo-mei-ti-yu-qian-ru.md)
-  * 2.1 HTML中的图片
-* HTML表格
+  * [2.1 HTML中的图片](duo-mei-ti-yu-qian-ru/21-htmlzhong-de-tu-pian.md)
+* [HTML表格](htmlbiao-ge.md)
 * HTML表单
 
