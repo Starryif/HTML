@@ -14,5 +14,5 @@
 * [2 多媒体与嵌入](duo-mei-ti-yu-qian-ru.md)
   * [2.1 HTML中的图片](duo-mei-ti-yu-qian-ru/21-htmlzhong-de-tu-pian.md)
 * [HTML表格](htmlbiao-ge.md)
-* HTML表单
+* [HTML表单](htmlbiao-dan.md)
 
