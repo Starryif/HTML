@@ -13,6 +13,7 @@
   * [1.9 HTML 调试](chapter1/19-html-diao-shi.md)
 * [2 多媒体与嵌入](duo-mei-ti-yu-qian-ru.md)
   * [2.1 HTML中的图片](duo-mei-ti-yu-qian-ru/21-htmlzhong-de-tu-pian.md)
+  * [2.2 视频和音频内容](duo-mei-ti-yu-qian-ru/22-shi-pin-he-yin-pin-nei-rong.md)
 * [HTML表格](htmlbiao-ge.md)
 * [HTML表单](htmlbiao-dan.md)
 
