@@ -17,6 +17,8 @@
   * [2.3 从对象到iframe - 其他嵌入技术](duo-mei-ti-yu-qian-ru/23-cong-dui-xiang-dao-iframe-qi-ta-qian-ru-ji-zhu.md)
   * [2.4 在网页中添加矢量图形](duo-mei-ti-yu-qian-ru/24-zai-wang-ye-zhong-tian-jia-shi-liang-tu-xing.md)
   * [2.5 自适应图片](duo-mei-ti-yu-qian-ru/25-zi-shi-ying-tu-pian.md)
-* [HTML表格](htmlbiao-ge.md)
+* [3 HTML表格](htmlbiao-ge.md)
+  * [3.1 表格基础](31-biao-ge-ji-chu.md)
+  * [3.2 高级表格特性和可访问性](32-gao-ji-biao-ge-te-xing-he-ke-fang-wen-xing.md)
 * [HTML表单](htmlbiao-dan.md)
 
