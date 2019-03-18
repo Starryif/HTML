@@ -18,7 +18,6 @@
                 "-search",
                 "highlight",
                 "livereload",
-                "search-plus",
-                "expandable-chapters-small"//使左侧的章节目录可以折叠
+                "search-plus"
     ]
 }
