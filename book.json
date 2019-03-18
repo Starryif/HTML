@@ -5,7 +5,7 @@
     "language" : "zh-hans",
     "links" : {
     	"sidebar" : {
-        	"船星" : "https://starryif.github.io/"
+        	"船星2" : "https://starryif.github.io/"
     	}
 	},
     "plugins": [
@@ -16,6 +16,13 @@
                 "-lunr",
                 "-search",
                 "search-plus",
-                "expandable-chapters-small"
-    ]
+                "tbfed-pagefooter"
+    ],
+    "pluginsConfig": {
+    	"tbfed-pagefooter": {
+        	"copyright":"Copyright &copy starryif.github.io 2019",
+        	"modify_label": "该文件修订时间：",
+        	"modify_format": "YYYY-MM-DD HH:mm:ss"
+    }
+}
 }
