@@ -19,6 +19,6 @@
                 "highlight",
                 "livereload",
                 "search-plus",
-                "expandable-chapters-small"
+                "expandable-chapters-small@^0.1.7"
     ]
 }
