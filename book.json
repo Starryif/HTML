@@ -5,5 +5,18 @@
     "language" : "zh-hans",
     "theme-default": {
         "showLevel": true
-    }
+    },
+    "links" : {
+    	"sidebar" : {
+        	"船星" : "https://starryif.github.io/"
+    	}
+	},
+    "plugins": [
+                "fontsettings",
+                "sharing",
+                "lunr",
+                "search",
+                "highlight",
+                "livereload"
+    ]
 }
