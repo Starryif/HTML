@@ -19,33 +19,6 @@
                 "highlight",
                 "livereload",
                 "search-plus",
-                "expandable-chapters-small",
-                "anchor-navigation-ex",
-                "donate",
-                "tbfed-pagefooter",
-                "splitter",
-    ],
-    "pluginsConfig": {
-        "anchor-navigation-ex": {
-            "isRewritePageTitle": true,
-            "isShowTocTitleIcon": true,
-            "tocLevel1Icon": "fa fa-hand-o-right",
-            "tocLevel2Icon": "fa fa-hand-o-right",
-            "tocLevel3Icon": "fa fa-hand-o-right"
-        },
-        "donate": {
-        	"wechat": "https://zhangjikai.com/resource/weixin.png",
-        	"alipay": "https://zhangjikai.com/resource/alipay.png",
-        	"title": "",
-        	"button": "赏",
-        	"alipayText": "支付宝打赏",
-        	"wechatText": "微信打赏"
-    	},
-    	"pluginsConfig": {
-    		"tbfed-pagefooter": {
-        	"copyright":"Copyright &copy zhangjikai.com 2017",
-        	"modify_label": "该文件修订时间：",
-        	"modify_format": "YYYY-MM-DD HH:mm:ss"
-    	},
-    }
+                "expandable-chapters-small", //使左侧的章节目录可以折叠
+    ]
 }
