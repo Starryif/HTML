@@ -3,14 +3,6 @@
     "description" : "个人的HTML学习之路",
     "author" : "青焰",
     "language" : "zh-hans",
-    "gitbook" : "3.2.2",
-	"gitbook" : ">=3.0.0",
-	"root": ".",
-	"links" : {
-     	"sidebar" : {
-        "Home" : "https://starryif.gitbooks.io"
-    }
-},
     "theme-default": {
         "showLevel": true
     }
