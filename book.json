@@ -14,9 +14,10 @@
     "plugins": [
                 "fontsettings",
                 "sharing",
-                "lunr",
-                "search",
+                "-lunr",
+                "-search",
                 "highlight",
                 "livereload"
+                "search-plus"
     ]
 }
