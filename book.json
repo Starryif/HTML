@@ -19,9 +19,5 @@
                 "livereload",
                 "search-plus",
                 "expandable-chapters-small"
-    ],
-    "pluginsConfig": {
-        "theme-default": {
-            "showLevel": true
-        }
+    ]
 }
