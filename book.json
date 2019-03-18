@@ -22,9 +22,6 @@
                 "anchor-navigation-ex"
     ],
     "pluginsConfig": {
-    	"theme-default": {
-            "showLevel": true
-        },
         "anchor-navigation-ex": {
             "isRewritePageTitle": true,
             "isShowTocTitleIcon": true,
@@ -32,6 +29,8 @@
             "tocLevel2Icon": "fa fa-hand-o-right",
             "tocLevel3Icon": "fa fa-hand-o-right"
         },
-
+        "theme-default": {
+            "showLevel": true
+        },
     }
 }
