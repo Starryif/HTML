@@ -6,7 +6,7 @@
     "gitbook" : "3.2.3",
     "links" : {
     	"sidebar" : {
-        	"船星1" : "https://starryif.github.io/"
+        	"船星" : "https://starryif.github.io/"
     	}
 	},
     "plugins": [
