@@ -17,7 +17,8 @@
                 "-search",
                 "search-plus",
                 "tbfed-pagefooter",
-                "splitter"
+                "splitter",
+                "ancre-navigation"
     ],
     "pluginsConfig": {
     	"tbfed-pagefooter": {
