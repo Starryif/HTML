@@ -3,6 +3,8 @@
     "description" : "个人的HTML学习之路",
     "author" : "青焰",
     "language" : "zh-hans",
+    "gitbook" : "3.2.2",
+	"gitbook" : ">=3.0.0",
     "links" : {
     	"sidebar" : {
         	"船星" : "https://starryif.github.io/"
