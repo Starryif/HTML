@@ -20,7 +20,7 @@
                 "tbfed-pagefooter",
                 "splitter",
                 "expandable-chapters",
-                "anchor-navigation-ex@0.1.8"
+                "anchor-navigation-ex"
     ],
     "pluginsConfig": {
     	"tbfed-pagefooter": {
