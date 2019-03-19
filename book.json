@@ -5,7 +5,7 @@
     "language" : "zh-hans",
     "links" : {
     	"sidebar" : {
-        	"船星5" : "https://starryif.github.io/"
+        	"船星1" : "https://starryif.github.io/"
     	}
 	},
     "plugins": [
@@ -18,7 +18,7 @@
                 "search-plus",
                 "tbfed-pagefooter",
                 "splitter",
-                "expandable-chapters-small",
+                "expandable-chapters",
                 "code" 
     ],
     "pluginsConfig": {
