@@ -19,7 +19,7 @@
                 "search-plus",
                 "tbfed-pagefooter",
                 "splitter",
-                "expandable-chapters",
+                "expandable-chapters"
     ],
     "pluginsConfig": {
     	"tbfed-pagefooter": {
