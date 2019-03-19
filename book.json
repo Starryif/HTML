@@ -20,7 +20,7 @@
                 "tbfed-pagefooter",
                 "splitter",
                 "expandable-chapters",
-                "anchor-navigation-ex"
+                "anchor-navigation-ex@0.1.8"
     ],
     "pluginsConfig": {
     	"tbfed-pagefooter": {
@@ -28,11 +28,11 @@
         	"modify_label": "该文件修订时间：",
         	"modify_format": "YYYY-MM-DD HH:mm:ss"
     	},
-    	"anchor-navigation-ex": {
+   	"anchor-navigation-ex": {
             "isRewritePageTitle": false,
             "tocLevel1Icon": "fa fa-hand-o-right",
             "tocLevel2Icon": "fa fa-hand-o-right",
             "tocLevel3Icon": "fa fa-hand-o-right"
-    	},
+        }
     }
 }
