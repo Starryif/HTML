@@ -18,8 +18,8 @@
                 "search-plus",
                 "tbfed-pagefooter",
                 "splitter",
-                "expandable-chapters",
-                "ancre-navigation"
+                "chapter-fold",
+                "code" 
     ],
     "pluginsConfig": {
     	"tbfed-pagefooter": {
