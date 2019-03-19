@@ -19,7 +19,7 @@
                 "tbfed-pagefooter",
                 "splitter",
                 "expandable-chapters",
-                "page-toc-button"
+                "anchor-navigation-ex"
     ],
     "pluginsConfig": {
     	"tbfed-pagefooter": {
